@@ -1,1 +1,1 @@
-# TicTacToe
+# GamesPlatform
